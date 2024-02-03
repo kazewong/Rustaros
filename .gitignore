@@ -2,4 +2,4 @@
 /dist/*
 dist
 app.css
-dist/index.html
+*/index.html
