@@ -1,0 +1,5 @@
+/target/*
+/dist/*
+dist
+app.css
+dist/index.html
